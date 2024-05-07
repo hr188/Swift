@@ -1,0 +1,74 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		D2B748BF2BEA7607006D90DA /* Class1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Class1.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		D2B748B72BEA753D006D90DA = {
+			isa = PBXGroup;
+			children = (
+				D2B748BF2BEA7607006D90DA /* Class1.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		D2B748B82BEA753D006D90DA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1530;
+			};
+			buildConfigurationList = D2B748BB2BEA753D006D90DA /* Build configuration list for PBXProject "practise" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = D2B748B72BEA753D006D90DA;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		D2B748BC2BEA753D006D90DA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		D2B748BD2BEA753D006D90DA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D2B748BB2BEA753D006D90DA /* Build configuration list for PBXProject "practise" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D2B748BC2BEA753D006D90DA /* Debug */,
+				D2B748BD2BEA753D006D90DA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D2B748B82BEA753D006D90DA /* Project object */;
+}
